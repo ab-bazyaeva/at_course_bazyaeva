@@ -94,3 +94,6 @@ result = """
 """.format(our_org2, addressee, nom_name)
 
 print(result)
+
+# изменение для проверки
+print()
